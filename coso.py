@@ -7,7 +7,7 @@ if coso == '1':
     print("Inserte la base y luego la altura")
     bs = int(input())
     h = int(input())
-    print("El area de tu trangulo es:")
+    print("El area de tu triangulo es:")
     print(bs*h/2)
 
 if coso == '2':
@@ -19,7 +19,7 @@ if coso == '2':
 if coso == '3':
     print("Inserte el valor del radio")
     rd = int(input())
-    print("El area de tu circulo es:")
+    print("El area de tu círculo es:")
     print(3.1416*(rd*rd))
 
 if coso == '4':
